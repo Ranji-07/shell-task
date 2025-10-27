@@ -1,0 +1,2 @@
+this is my_file.txt content.
+this is another_file.txt content.
